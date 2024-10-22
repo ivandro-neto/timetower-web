@@ -44,7 +44,7 @@ export const Navbar = () => {
               className="mt-10 border-2 border-black text-black px-8 py-3 text-sm font-semibold hover:bg-black hover:text-white transition-all duration-300 rounded"
               onClick={() =>
                 window.open(
-                  "https://drive.google.com/file/d/1ZMatbUQbMB_m_QyaxCC1yg-KuKVsgm34/view?usp=drive_link",
+                  "https://drive.google.com/file/d/1sd_YpkjvN2eSEJrZCrhmB0bIKUvmLwOV/view?usp=sharing",
                   "_blank",
                 )
               } // Altere o caminho para o relatório do jogo
